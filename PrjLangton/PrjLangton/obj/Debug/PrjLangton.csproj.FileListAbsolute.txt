@@ -1,0 +1,105 @@
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+c:\users\lab\documents\visual studio 2015\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Users\TEMP\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.Cache
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Users\TEMP.LABINF.004\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojAssemblyReference.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojAssemblyReference.cache
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.cache
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Users\leona\Documents\Visual Studio 2019\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojAssemblyReference.cache
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.cache
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Users\leona\Desktop\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Users\leona\source\repos\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.Cache
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Users\TEMP.LABINF.005\Downloads\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+F:\pendrive\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+F:\pendrive\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+F:\pendrive\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+F:\pendrive\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+F:\pendrive\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+F:\pendrive\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.Cache
+F:\pendrive\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+F:\pendrive\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
+F:\pendrive\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.AssemblyReference.cache
+F:\pendrive\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.CoreCompileInputs.cache
+C:\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe.config
+C:\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.exe
+C:\Projects\PrjLangton\PrjLangton\bin\Debug\PrjLangton.pdb
+C:\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.AssemblyReference.cache
+C:\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Form1.resources
+C:\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.Properties.Resources.resources
+C:\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.GenerateResource.cache
+C:\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.csproj.CoreCompileInputs.cache
+C:\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.exe
+C:\Projects\PrjLangton\PrjLangton\obj\Debug\PrjLangton.pdb
